@@ -1,3 +1,10 @@
+C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\appsettings.json
 C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\Sistema_Gestion.exe
@@ -15,13 +22,6 @@ C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\runtimes\win-x64\n
 C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.csproj.AssemblyReference.cache
-C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.AssemblyInfoInputs.cache
-C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.AssemblyInfo.cs
-C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\scopedcss\bundle\Sistema_Gestion.styles.css
@@ -31,3 +31,4 @@ C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\refint\Sistema_Ges
 C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.pdb
 C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\Sistema_Gestion.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\Sistema_Gestion\obj\Debug\net6.0\ref\Sistema_Gestion.dll
+C:\Users\Lenovo\source\repos\Sistema_Gestion\bin\Debug\net6.0\Controllers\VentaController.cs

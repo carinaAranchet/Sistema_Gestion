@@ -130,7 +130,7 @@ namespace Sistema_Gestion.Repository
                     sqlCommand.Parameters.Add(nombreParameter);
                     sqlCommand.Parameters.Add(idParameter);
 
-                    int numberOfRows = sqlCommand.ExecuteNonQuery(); // Se ejecuta la sentencia sql
+                    int numberOfRows = sqlCommand.ExecuteNonQuery(); 
 
                     if (numberOfRows > 0)
                     {
